@@ -1,2 +1,4 @@
-wesite:
-https://github.com/Dharankrishna33/skilled-website-copy-model
+website: https://dharankrishna33.github.io/skilled-website-copy-model/
+
+
+
